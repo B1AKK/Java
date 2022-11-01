@@ -1,5 +1,4 @@
 
-
 public class Task4_3 {
 	static double Rosenbrock2d(double x, double y)
 	{
